@@ -1,0 +1,148 @@
+/*------------- Global CSS -------------*/
+* {
+  overflow-x: hidden;
+}
+/*------------- Header Part -------------*/
+.navbar {
+  display: flex !important;
+}
+.c-f {
+  display: flex;
+}
+/*------------- Home Section -------------*/
+.nav-link:hover {
+  background-color: #ffffff;
+  color: #000000 !important;
+  font-weight: 700;
+  border-radius: 4px;
+}
+.feature {
+  background-image: url(images/bg-image.png);
+  display: flex;
+  padding-bottom: 110px;
+}
+.line {
+  border-bottom: #ffffff 2px solid;
+  width: 60px;
+}
+.btn:hover {
+  background-color: #fff;
+  color: #000000 !important;
+  font-weight: 700;
+}
+.form {
+  width: 50%;
+  height: 320px;
+  margin: auto;
+}
+h4 {
+  background-color: #f5f5f5;
+}
+.gs {
+  background-color: #ff9b51 !important;
+}
+.w-90 {
+  width: 90%;
+}
+.d-flex {
+  flex-direction: column;
+}
+/*------------- Social Section -------------*/
+.size {
+  font-size: 50px;
+  color: #cccccc;
+}
+.size:hover {
+  color: #ff8b38;
+}
+.line-block {
+  border-top: 2px solid #b7b7b7;
+  width: 100%;
+}
+/*------------- Brand Section -------------*/
+.tab-btn {
+  background-color: #333333;
+  border: 0;
+}
+.tab-btn:hover {
+  background-color: #ff8b38;
+  border: 0;
+}
+.tab-p {
+  font-weight: bold;
+}
+.download {
+  background-color: #ff8b38 !important;
+  color: #ffffff !important;
+  display: inline;
+}
+/*------------- Feature Section (2) -------------*/
+.line-orange {
+  border-top: #ff8b38 2px solid;
+  width: 60px;
+}
+/*------------- Feature Section (3) -------------*/
+.bg-f5 {
+  background-color: #f5f5f5;
+}
+/*------------- Our Proccess Section -------------*/
+
+/*------------- pricing Section -------------*/
+.bg-33 {
+  background-color: #333333;
+}
+.text-gray {
+  color: #939393;
+  font-style: italic;
+}
+.size-30 {
+  font-size: 60px;
+}
+.line-white {
+  border-top: 2px solid #ffffff;
+  width: 100%;
+}
+.line-text {
+  border-top: 1px solid #cccccc;
+  width: 100%;
+}
+/*------------- review Section -------------*/
+.text-gray-2 {
+  color: #86878b;
+  background-color: #f5f5f5;
+}
+.float {
+  float: left;
+}
+.text-gray-3 {
+  color: #86878b;
+}
+/*------------- Custom Section -------------*/
+.custom-bg {
+  background-image: url(images/custom-bg.png);
+}
+.line-custom {
+  border-top: 2px solid #ffffff;
+  width: 60px;
+  margin: auto;
+}
+/*------------- COntact us Section -------------*/
+.pb-10 {
+  padding-bottom: 90px;
+}
+/*------------- Footer Section -------------*/
+.bg-black {
+  background-color: #000000;
+  text-align: center;
+}
+.footer-icon {
+  color: #ffffff;
+  font-size: 20px;
+  padding: 0 10px;
+}
+.footer-icon:hover {
+  color: #86878b;
+}
+.footer-icon:active {
+  color: #ff8b38;
+}
